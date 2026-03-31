@@ -1,4 +1,4 @@
-﻿namespace PizzaPlace.Services;
+namespace PizzaPlace.Services;
 
 public class MenuService : IMenuService
 {

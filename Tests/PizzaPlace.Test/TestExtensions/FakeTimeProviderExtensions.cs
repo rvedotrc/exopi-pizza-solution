@@ -1,4 +1,4 @@
-﻿namespace PizzaPlace.Test.TestExtensions;
+namespace PizzaPlace.Test.TestExtensions;
 
 public static class FakeTimeProviderExtensions
 {

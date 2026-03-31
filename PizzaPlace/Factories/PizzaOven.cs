@@ -1,4 +1,4 @@
-﻿using PizzaPlace.Extensions;
+using PizzaPlace.Extensions;
 using PizzaPlace.Models;
 using PizzaPlace.Models.Types;
 using PizzaPlace.Pizzas;

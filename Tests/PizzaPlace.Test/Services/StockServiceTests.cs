@@ -1,4 +1,4 @@
-﻿namespace PizzaPlace.Test.Services;
+namespace PizzaPlace.Test.Services;
 
 [TestClass]
 public class StockServiceTests

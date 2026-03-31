@@ -1,4 +1,4 @@
-﻿namespace PizzaPlace.Services;
+namespace PizzaPlace.Services;
 
 public interface IMenuService
 {

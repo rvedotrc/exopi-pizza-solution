@@ -1,4 +1,4 @@
-﻿namespace PizzaPlace.Extensions;
+namespace PizzaPlace.Extensions;
 
 public static class StringExtensions
 {

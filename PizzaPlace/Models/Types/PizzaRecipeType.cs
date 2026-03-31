@@ -1,4 +1,4 @@
-﻿namespace PizzaPlace.Models.Types;
+namespace PizzaPlace.Models.Types;
 
 [JsonConverter(typeof(JsonStringEnumConverter))]
 public enum PizzaRecipeType

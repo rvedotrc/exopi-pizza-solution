@@ -1,4 +1,4 @@
-﻿namespace PizzaPlace;
+namespace PizzaPlace;
 
 public static class EnumerableExtension
 {

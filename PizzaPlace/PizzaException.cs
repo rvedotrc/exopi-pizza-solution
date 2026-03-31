@@ -1,4 +1,4 @@
-﻿namespace PizzaPlace;
+namespace PizzaPlace;
 
 public class PizzaException : Exception
 {

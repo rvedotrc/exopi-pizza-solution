@@ -1,4 +1,4 @@
-﻿namespace PizzaPlace;
+namespace PizzaPlace;
 
 /// <summary>
 /// Just a list with equals to match if all items match.
