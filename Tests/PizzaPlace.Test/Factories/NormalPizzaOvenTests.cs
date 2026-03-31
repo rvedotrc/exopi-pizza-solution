@@ -139,5 +139,5 @@ public class NormalPizzaOvenTests
             ], TastyPizzaPrepareTime);
 
     public static ComparableList<StockDto> GetPlentyStock() =>
-        new ComparableList<StockDto>(Enum.GetValues<StockType>().Select(type => new StockDto(type, int.MaxValue)));
+        [.. Enum.GetValues<StockType>().Select(type => new StockDto(type, int.MaxValue))];
 }
