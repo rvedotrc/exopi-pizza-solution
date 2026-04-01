@@ -5,7 +5,7 @@ namespace PizzaPlace.Services;
 
 public class StockService(IStockRepository stockRepository) : IStockService
 {
-    public Task<bool> HasInsufficientStock(PizzaOrder order, ComparableList<PizzaRecipeDto> recipeDtos)
+    public Task<bool> HasSufficientStock(PizzaOrder order, ComparableList<PizzaRecipeDto> recipeDtos)
     {
         throw new NotImplementedException("Sufficient stock must be checked.");
     }
