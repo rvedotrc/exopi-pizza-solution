@@ -4,7 +4,7 @@ namespace PizzaPlace.Test.Services;
 public class StockServiceTests
 {
     [TestMethod]
-    public void FailingTest()
+    public void PointlessTest()
     {
         // Assert
         Assert.IsTrue(true);
